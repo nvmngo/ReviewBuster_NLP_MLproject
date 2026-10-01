@@ -7,5 +7,6 @@
 - [Notebook 3](a2_finalTraining_testEvaluation.ipynb) — SVM tuning, final training, and held-out test evaluation
 - [Review dataset](data/deceptive-opinion.csv)
 - [Assignment specification](a2_specification.pdf)
+- [Final report (PDF)](output/pdf/XuanNamNgo_26047997_2026_ML_Journal.pdf)
 
 Open the notebooks from the repository root so their relative dataset paths resolve correctly. Notebook 3 uses the selected linear SVM with non-lemmatised TF-IDF unigrams and bigrams, selects `C=6.0` through training-only validation, and evaluates the final model on four held-out hotels.
